@@ -1,0 +1,12 @@
+---
+# Application config file 
+applications:
+
+- disk: 512M
+  path: .
+  mem: 256M
+  instances: 1
+  domain: mybluemix.net
+  buildpack: https://github.com/ibmdb/db2rubybuildpack
+  
+  

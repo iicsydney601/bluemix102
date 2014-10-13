@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+ruby '1.9.3'
+gem 'sinatra', '>= 0'
+gem 'haml', '>= 0'
+gem 'ibm_db', '>= 2.5.15'
+gem 'mysql', '>= 0'
